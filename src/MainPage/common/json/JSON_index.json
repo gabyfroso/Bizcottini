@@ -1,0 +1,342 @@
+{
+    "Principales": {
+        "Tortas": {
+            "Props": {
+                "img": {
+                    "src": "",
+                    "alt": ""
+                },
+                "tipo": ["dulce", "salado"]
+            },
+            "Array": [
+                {
+                    "title": "Hojaldre",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                }
+            ]
+        },
+        "Desayuno": {
+            "Props": {
+                "img": {
+                    "src": "",
+                    "alt": ""
+                },
+                "tipo": ["dulce", "salado"]
+            },
+            "Array": [
+                {
+                    "title": "Hojaldre",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                }
+            ]
+        },
+        "Mini-tortas": {
+            "Props": {
+                "img": {
+                    "src": "",
+                    "alt": ""
+                },
+                "tipo": ["dulce", "salado"]
+            },
+            "Array": [
+                {
+                    "title": "Hojaldre",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                }
+            ]
+        },
+        "Galletas": {
+            "Props": {
+                "img": {
+                    "src": "",
+                    "alt": ""
+                },
+                "tipo": ["dulce", "salado"]
+            },
+            "Array": [
+                {
+                    "title": "Hojaldre",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                },
+                {
+                    "title": "index",
+                    "SuperTags": [],
+                    "tags": [],
+                    "description": [],
+                    "Time-estimado": "",
+                    "Disponible": true,
+                    "enable": false
+                }
+            ]
+        },
+        "Postres": {
+            "Torta Helada": {
+                "Props": {
+                    "img": {
+                        "src": "",
+                        "alt": ""
+                    },
+                    "tipo": ["dulce", "salado"]
+                },
+                "Array": [
+                    {
+                        "title": "Hojaldre",
+                        "SuperTags": [],
+                        "tags": [],
+                        "description": [],
+                        "Time-estimado": "",
+                        "Disponible": true,
+                        "enable": false
+                    },
+                    {
+                        "title": "index",
+                        "SuperTags": [],
+                        "tags": [],
+                        "description": [],
+                        "Time-estimado": "",
+                        "Disponible": true,
+                        "enable": false
+                    },
+                    {
+                        "title": "index",
+                        "SuperTags": [],
+                        "tags": [],
+                        "description": [],
+                        "Time-estimado": "",
+                        "Disponible": true,
+                        "enable": false
+                    },
+                    {
+                        "title": "index",
+                        "SuperTags": [],
+                        "tags": [],
+                        "description": [],
+                        "Time-estimado": "",
+                        "Disponible": true,
+                        "enable": false
+                    },
+                    {
+                        "title": "index",
+                        "SuperTags": [],
+                        "tags": [],
+                        "description": [],
+                        "Time-estimado": "",
+                        "Disponible": true,
+                        "enable": false
+                    }
+                ]
+            },
+            "Masas": {
+                "Props": {
+                    "img": {
+                        "src": "",
+                        "alt": ""
+                    },
+                    "tipo": ["dulce", "salado"]
+                },
+                "Array": [
+                    {
+                        "title": "Hojaldre",
+                        "SuperTags": [],
+                        "tags": [],
+                        "description": [],
+                        "Time-estimado": "",
+                        "Disponible": true,
+                        "enable": false
+                    },
+                    {
+                        "title": "index",
+                        "SuperTags": [],
+                        "tags": [],
+                        "description": [],
+                        "Time-estimado": "",
+                        "Disponible": true,
+                        "enable": false
+                    },
+                    {
+                        "title": "index",
+                        "SuperTags": [],
+                        "tags": [],
+                        "description": [],
+                        "Time-estimado": "",
+                        "Disponible": true,
+                        "enable": false
+                    },
+                    {
+                        "title": "index",
+                        "SuperTags": [],
+                        "tags": [],
+                        "description": [],
+                        "Time-estimado": "",
+                        "Disponible": true,
+                        "enable": false
+                    },
+                    {
+                        "title": "index",
+                        "SuperTags": [],
+                        "tags": [],
+                        "description": [],
+                        "Time-estimado": "",
+                        "Disponible": true,
+                        "enable": false
+                    }
+                ]
+            }
+        }
+    }
+}
