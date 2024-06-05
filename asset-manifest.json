@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Bizcottini/static/css/main.fe74cb20.css",
-    "main.js": "/Bizcottini/static/js/main.637b09c5.js",
+    "main.css": "/Bizcottini/static/css/main.bea274e2.css",
+    "main.js": "/Bizcottini/static/js/main.98bc8384.js",
     "static/js/453.e02cc180.chunk.js": "/Bizcottini/static/js/453.e02cc180.chunk.js",
     "index.html": "/Bizcottini/index.html",
-    "main.fe74cb20.css.map": "/Bizcottini/static/css/main.fe74cb20.css.map",
-    "main.637b09c5.js.map": "/Bizcottini/static/js/main.637b09c5.js.map",
+    "main.bea274e2.css.map": "/Bizcottini/static/css/main.bea274e2.css.map",
+    "main.98bc8384.js.map": "/Bizcottini/static/js/main.98bc8384.js.map",
     "453.e02cc180.chunk.js.map": "/Bizcottini/static/js/453.e02cc180.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe74cb20.css",
-    "static/js/main.637b09c5.js"
+    "static/css/main.bea274e2.css",
+    "static/js/main.98bc8384.js"
   ]
 }
